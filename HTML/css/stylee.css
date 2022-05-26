@@ -1,0 +1,95 @@
+
+*{margin: 15;padding: 15;}
+body{
+    width: 750px; 
+    height: 750px;
+    margin: auto;
+    background: url(atras.jpg);
+    background-size: 100%;
+
+}
+
+header
+{
+    background-color: rgb(230, 167, 72);
+    width: 750px;
+    height: 250px;
+    background-color: blue;
+    border-top: 10px solid rgb(4, 97, 184)   ;
+    border-bottom: 5px solid rgb(145, 4, 184);
+    border-right: 10px solid rgb(4, 46, 184);
+    border-left: 10px solid rgb(88, 4, 184);
+
+}
+
+section#banner{
+    width: 485px;
+    height: 235px;
+    float: left;
+    background-color: rgb(1, 142, 178);
+    margin: 5px;
+    border: 1px solid yellowgreen;
+}
+section#primera{
+    width: 235px;
+    height: 235px;
+    float: left;
+    background-color: rgb(1, 142, 178);
+    margin: 5px;
+    border: 1px solid rgb(136, 4, 4);  
+}
+nav{
+    width: 750px;
+    height: 50px;
+    background-color: blue;
+    border-top: 10px solid rgb(4, 97, 184)   ;
+    border-bottom: 5px solid rgb(145, 4, 184);
+    border-right: 10px solid rgb(4, 46, 184);
+    border-left: 10px solid rgb(88, 4, 184);
+}
+
+main
+{
+    width: 750px;
+    height: 400px;
+    background-color: blue;
+    border-top: 10px solid rgb(4, 97, 184)   ;
+    border-bottom: 5px solid rgb(145, 4, 184);
+    border-right: 10px solid rgb(4, 46, 184);
+    border-left: 10px solid rgb(88, 4, 184);
+}
+
+aside
+{
+    background-color: yellow;
+    width: 285px;
+    height: 385px;
+    float: left;
+    background-color: rgb(166, 47, 180);
+    margin: 5px;
+    border: 1px solid rgb(166, 47, 180);
+}
+
+article
+{
+    background-color: yellow;
+    width: 435px;
+    height: 385px;
+    float: left;
+    margin: 5px;
+    border: 1px solid rgb(166, 47, 180);
+    background-color:rgb(166, 47, 180);
+    
+}
+
+footer
+{
+    width: 750px;
+    height: 50px;
+    background-color: rgb(166, 47, 180);
+    float: left;    
+    border-top: 5px solid rgb(80, 7, 236);
+    border-bottom: 10px solid rgb(80, 7, 236);
+    border-right: 10px solid rgb(80, 7, 236);
+    border-left: 10px solid rgb(80, 7, 236);
+}

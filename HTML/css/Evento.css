@@ -1,0 +1,18 @@
+#titulo{
+    background-color: blue;
+    border-top: 10px solid rgb(4, 97, 184)   ;
+    border-bottom: 5px solid rgb(145, 4, 184);
+    border-right: 10px solid rgb(4, 46, 184);
+    border-left: 10px solid rgb(88, 4, 184);
+}
+li{
+    border-top: 10px solid rgb(4, 97, 184)   ;
+    border-bottom: 5px solid rgb(145, 4, 184);
+    border-right: 10px solid rgb(4, 46, 184);
+    border-left: 10px solid rgb(88, 4, 184);
+}
+
+body{
+    background-image: url(playa.jpg);
+    background-size: 100%;
+}
